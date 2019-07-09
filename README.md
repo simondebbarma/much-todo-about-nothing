@@ -2,7 +2,7 @@
  Just another Todo app, built on a MERN stack
 
 
-You will need to install *Node.js, Nodemon, MongoDb, React-Router, and Express* installed on your system.
+You will need to install *Node.js, Nodemon, MongoDb, React-Router, and Express* on your system.
 
 --------
 
