@@ -7,11 +7,13 @@ You will need to install *Node.js, Nodemon, MongoDb, React-Router, and Express* 
 --------
 
 ### Running the frontend
-```cd much-todo-about-nothing
+```
+cd much-todo-about-nothing
 yarn start
 ```
 
 ### Starting the server
-```cd much-todo-about-nothing
+```
+cd much-todo-about-nothing
 nodemon server
 ```
