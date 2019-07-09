@@ -2,6 +2,10 @@
  Just another Todo app, built on a MERN stack
 
 
+You will need to install *Node.js, Nodemon, MongoDb, React-Router, and Express* installed on your system.
+
+--------
+
 ### Running the frontend
 ```cd much-todo-about-nothing
 yarn start
